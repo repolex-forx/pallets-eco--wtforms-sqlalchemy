@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "wtforms-sqlalchemy",
+  "versions": [
+    {
+      "commit": "29dee4d59b906c3493402e30019be54895dd35a6",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:49:33.362329+00:00"
+    }
+  ]
+}
